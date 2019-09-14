@@ -17,7 +17,7 @@
          3. [Try Git](https://try.github.io/)
          4. [Atlassian Git](https://www.atlassian.com/git/tutorials)
          5. [Git SCM](https://git-scm.com/docs/gittutorial)
-   3. Day Three [17 September] - ``
+   3. Day Three [17 September] - `Git For Team and Pull Requests`
    
 2. **21 September - 27 September** **`Introduction To Databases`**
    1. Day Four  [21 September] - General Introduction - Relational, Document, In-Memory, Graph, Ranking
@@ -30,10 +30,10 @@
          6. [Graph QL](https://graphql.org/)
    2. Day Five  [23 September] - `MySQL DDL, DML`
    3. Day Six   [24 September] - `Querying`
-3. **28 September - 4 October** - **`Introduction To Databases`**
-   1. Day Seven [28 September] `Normalization, Indexing`
-   2. Day Eight [30 September] -
-   3. Day Nine  [1 October]
+3. **28 September - 4 October** - **`Introduction To Databases 2`**
+   1. Day Seven [28 September] `Normalization`
+   2. Day Eight [30 September] `Indexing`
+   3. Day Nine  [1 October]    `Optimization & Backup`
 4. **5th October - 11th October** - **`Spring Boot & Frameworks`**
    1. Day Ten    [5th October] `Spring Boot & Build Tools`
       1. [Spring Boot](https://spring.io/guides/gs/spring-boot/)
@@ -51,9 +51,9 @@
       3. [Spring JPA](https://spring.io/guides/gs/accessing-data-rest/)
    2. Day Fourteen  [14th October]  `Hibernate ORM Deep Dive`
    3. Day Fifteen   [15th October]  ``
-6.  **19th October - 25th October** **`Wiring Frontend and Backend`**
-    1.  Day Sixteen   [19th October] `Introduction To Frontend - React`
-    2.  Day Seventeen [21st October]
+6.  **19th October - 25th October** **`Full Stack Development and Testing`**
+    1.  Day Sixteen   [19th October] `Wiring Frontend and Backend`
+    2.  Day Seventeen [21st October] `Writing API and Unit Tests`
     3.  Day Eighteen  [22nd October]
 7.  **26th October - 1st November**  **`Working With External APIs`**
     1.  Day Nineteen   [26th October] `Facebook, Google, Stripe, DingConnect`
@@ -74,15 +74,18 @@
 10. **16th November - 22nd November** - **`Servers - Nginx, Tomcat, Docker`** 
     1.  Day Twenty Eight [16th November] 
         1.  [Nginx - High-performance HTTP server](https://www.nginx.com/)
-        2.  [Apache Tomcat](https://tomcat.apache.org/)
-        3.  [Spring Boot Docker](https://spring.io/guides/gs/spring-boot-docker/) 
-    2.  Day Twenty Nine  [18th November]
+        2.  [Apache Tomcat](https://tomcat.apache.org/) 
+    2.  Day Twenty Nine  [18th November] `Docker`
+        1.  [Spring Boot Docker](https://spring.io/guides/gs/spring-boot-docker/)
+        2.  [Docker Hub](https://hub.docker.com/)
+        3.  [Docker](https://www.docker.com/)
     3.  Day Thirty       [19th November]
 11. **23rd November - 29th November**  - **`Deployment To Production`**
     1.  Day Thirty One   [23rd November] **`AWS Deployment`**
         1.  [AWS](https://aws.amazon.com/)
-    2.  Day Thirty Two   [25th November]
-    3.  Day Thirty Three [26th November]
+    1.  Day Thirty Two   [25th November]
+        1.  [Google Domains](https://domains.google/)
+    2.  Day Thirty Three [26th November]
 
 
 # Extra Resources
