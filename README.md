@@ -10,7 +10,7 @@
          5. [Balsamiq Mockup](https://balsamiq.com/)
          6. [Visual Studio Code](https://code.visualstudio.com/)
          7. [Oh My Zsh - Terminal](https://ohmyz.sh/)
-   2. Day Tow   [16 September] - `Git, GitHub, Git Flow`
+   2. Day Two   [16 September] - `Git, GitHub, Git Flow`
       1. Resources
          1. [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
          2. [Git School](http://git-school.github.io/visualizing-git/)
