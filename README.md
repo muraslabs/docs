@@ -93,6 +93,10 @@
    2. [VPN](https://protonvpn.com/)
    3. [Markdown](https://www.markdownguide.org)
 
+# Interesting Articles To Read
+
+1. [Developer Survey Results 2019](https://insights.stackoverflow.com/survey/2019#overview)
+
 # Complete Backend Roadmap
 
 ![Back-end Roadmap](./images/backend.png)
