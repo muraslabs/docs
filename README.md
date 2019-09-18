@@ -10,14 +10,15 @@
          5. [Balsamiq Mockup](https://balsamiq.com/)
          6. [Visual Studio Code](https://code.visualstudio.com/)
          7. [Oh My Zsh - Terminal](https://ohmyz.sh/)
-   2. Day Two   [16 September] - `Git, GitHub, Git Flow`
+   2. Day Two   [16 September] - `Git, GitHub, Git Flow`, `Semantic Versioning`
       1. Resources
          1. [Git Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
          2. [Git School](http://git-school.github.io/visualizing-git/)
          3. [Try Git](https://try.github.io/)
          4. [Atlassian Git](https://www.atlassian.com/git/tutorials)
          5. [Git SCM](https://git-scm.com/docs/gittutorial)
-   3. Day Three [17 September] - `Git For Team and Pull Requests`
+         6. [Semantic Versioning](https://semver.org/)
+   3. Day Three [17 September] - `Introduction To Databases`
    
 2. **21 September - 27 September** **`Introduction To Databases`**
    1. Day Four  [21 September] - General Introduction - Relational, Document, In-Memory, Graph, Ranking
